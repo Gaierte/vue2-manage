@@ -1,2 +1,2 @@
-# vue2-manage
-vue2-manage
+# vue-cli
+vue-cli ui
