@@ -1,2 +1,2 @@
-# vue-cli
+# vue
 vue-cli
