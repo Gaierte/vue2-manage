@@ -1,2 +1,2 @@
 # vue-cli
-vue-cli 3
+vue-cli 900
