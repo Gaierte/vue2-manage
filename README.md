@@ -1,2 +1,2 @@
 # vue-cli
-vue-cli
+vue-cli ui
